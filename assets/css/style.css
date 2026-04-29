@@ -29,7 +29,7 @@ main {
 figure {
     width: 100%;
     padding: 1rem;
-    padding-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -63,13 +63,4 @@ figcaption p {
     letter-spacing: 0.0125rem;
     color: var(--tertiary-color);
     text-align: center;
-}
-footer {
-    font-size: 0.6875rem;
-    color: var(--tertiary-color);
-    text-align: center;
-    margin-top: 2rem;
-}
-footer a {
-    color: var(--accent-color);
 }
