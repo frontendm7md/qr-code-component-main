@@ -22,7 +22,7 @@ body {
 }
 main {
     background-color: var(--background-color);
-    border-radius: 15px;
+    border-radius: 20px;
     text-align: center;
     max-width: 320px;
 }
@@ -34,7 +34,7 @@ figure {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 figure img {
     width: 100%;
